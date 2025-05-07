@@ -38,16 +38,16 @@ Accessible via: `/account`
 ## 💡 How to Use
 
 1. Clone the repo:
- git clone https://github.com/HajarZain222/user-account-ui.git
+  git clone https://github.com/HajarZain222/user-account-ui.git
 
 2. Navigate to the folder:
- cd user-account-ui
+  cd user-account-ui
 
 3.Install dependencies:
- npm install
+  npm install
 
 4.Start the development server:
-npm start
+  npm start
 
 
 ## Future Integration Notes
@@ -57,6 +57,11 @@ Replace mock data with actual data from .NET backend.
 Use GET /api/enrollments/user/{userId} to fetch user’s enrolled courses and progress.
 
 Handle submission of feedback and ratings via backend endpoints when available.
+
+
+## 🔗 Live Demo
+
+👉 [Click here to view the live demo](https://user-account-ui.vercel.app/account)
 
 🧑‍💻 Developer
 Hajar Zain
